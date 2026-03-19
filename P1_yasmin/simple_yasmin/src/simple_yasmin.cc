@@ -24,7 +24,7 @@ std::string FooState::execute(yasmin::Blackboard::SharedPtr blackboard)
 }
 
 
-//BarState CLass
+// BarState CLass
 BarState::BarState()
 : yasmin::State({"outcome3"})
 {
